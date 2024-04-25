@@ -2,6 +2,7 @@
 
 - [Introduction](#Introduction)
 - [Samples](#Samples)
+    - [Hello](./hello/README.md)
 
 ### Introduction
 This repository aims to store simple libs (gems) written in rust as an object of study.
@@ -22,4 +23,3 @@ Rust is on my roadmap, I think the language is very interesting, and it has a pr
 Using the FFI concept and the [FFI Gem](https://github.com/FFI/ffi).<br>
 - Concept FFI: https://wiki.c2.com/?ForeignFunctionInterface
 > A foreign function interface (FFI) is a mechanism by which a program written in one programming language can call routines or make use of services written or compiled in another one. An FFI is often used in contexts where calls are made into binary dynamic-link library.
-### Samples
